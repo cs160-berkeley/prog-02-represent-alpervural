@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Prog2B</string>
+    <string name="title_activity_wear_main">WearMainActivity</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+    <string name="title_activity_listener">Listener</string>
+    <string name="title_activity_to_phone">ToPhone</string>
+    <string name="title_activity_vote_stats">VoteStats</string>
+    <string name="title_activity_vote_stats2">VoteStats2</string>
+</resources>
